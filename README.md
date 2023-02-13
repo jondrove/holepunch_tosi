@@ -3,7 +3,7 @@
 <!-- badges: start -->
 
 [![Launch Rstudio
-Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jondrove/holepunch_tosi/firstbranch?urlpath=rstudio)
+Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jondrove/holepunch_tosi/main?urlpath=rstudio)
 <!-- badges: end -->
 
 # holepunch-compendium
